@@ -23,7 +23,7 @@ I grew up under the influence of Games Workshop products including 40K, Fantasy 
 
 ### Dwarf Fortress
 
-![Dwarf Fortress](res\Dwarf_Fortress.png)
+![Dwarf Fortress](res/Dwarf_Fortress.png)
 
 **RELEASE DATE:** 8 August, 2006
 
@@ -37,7 +37,7 @@ Dwarf Fortress is arguably the most in-depth simulation game in the world. You a
 
 ### RollerCoaster Tycoon
 
-![RollerCoaster Tycoon](res\RollerCoaster_Tycoon.png)
+![RollerCoaster Tycoon](res/RollerCoaster_Tycoon.png)
 
 Atheme park-building game in which creativity and roblem solving goes hand-in-hand. Visitors to your park will act on their own using simplistic Al, but the player always has the tools to deal with urgent problems.
 
@@ -51,7 +51,7 @@ Atheme park-building game in which creativity and roblem solving goes hand-in-ha
 
 ### Dungeon Master
 
-![Dungeon_Master](res\Dungeon_Master.png)
+![Dungeon_Master](res/Dungeon_Master.png)
 
 The first 3D spelunker role-playing game that used real-time mechanics. A traditional fantasy game that Notch often referenced, and an inspiration for one of my own favorite franchises, Eye of the Beholder.
 
@@ -65,7 +65,7 @@ The first 3D spelunker role-playing game that used real-time mechanics. A tradit
 
 ### Infiniminer
 
-![Infiniminer](res\Infiniminer.png)
+![Infiniminer](res/Infiniminer.png)
 
 Infiniminer was posted to The Independent Gaming Source's forums and became the breakthrough inspiration for Minecraft's entire interaction model. It may be a very simple game, but has helped creating something amazing. Zach has continued releasing many successful games since then.
 
